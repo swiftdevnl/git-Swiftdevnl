@@ -1,2 +1,2 @@
 # git-Swiftdevnl
-Eerste smanewerkings projekt om Github te testen
+Eerste samenwerkings projekt om Github te testen
